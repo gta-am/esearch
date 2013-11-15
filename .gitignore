@@ -1,0 +1,48 @@
+#############
+## IntelliJ IDEA
+#############
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+#################
+## playframework
+#################
+/modules
+/precompiled
+/tmp
+
+#################
+## svn
+#################
+.svn/
+
+#################
+## vi/vim
+#################
+.*.swp
+
+
+
+#################
+## Eclipse
+#################
+
+*.pydevproject
+.project
+.metadata
+.mymetadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.myeclipse/
+.loadpath
+.loadpath
